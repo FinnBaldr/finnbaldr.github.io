@@ -1,7 +1,7 @@
-The Non-Profit Open Software License version 3.0 (NPOSL-3.0)
-View Summary of Non-Profit Open Software License 3.0 (NPOSL-3.0) on TLDRLegal » (Disclaimer)
+# The Non-Profit Open Software License version 3.0 (NPOSL-3.0)
+## View Summary of Non-Profit Open Software License 3.0 (NPOSL-3.0) on TLDRLegal » (Disclaimer)
 
-Non-Profit Open Software License 3.0 (NPOSL-3.0)
+## Non-Profit Open Software License 3.0 (NPOSL-3.0)
 
 This Non-Profit Open Software License ("Non-Profit OSL") version 3.0 (the "License") applies to any original work of authorship (the "Original Work") whose owner (the "Licensor") has placed the following licensing notice adjacent to the copyright notice for the Original Work:
 
@@ -60,5 +60,3 @@ e) to display the Original Work publicly.
 (d) The proviso in Section 1(c) of this License now refers to this "Non-Profit Open Software License" rather than the "Open Software License". You may distribute or communicate the Original Work or Derivative Works thereof under this Non-Profit OSL 3.0 license only if You make the representation and declaration in paragraph (a) of this Section 17. Otherwise, You shall distribute or communicate the Original Work or Derivative Works thereof only under the OSL 3.0 license and You shall publish clear licensing notices so stating. Also by way of clarification, this License does not authorize You to distribute or communicate works under this Non-Profit OSL 3.0 if You received them under the original OSL 3.0 license.
 
 (e) Original Works licensed under this license shall reference "Non-Profit OSL 3.0" in licensing notices to distinguish them from works licensed under the original OSL 3.0 license.
-
-A brief explanation of this license is available.
