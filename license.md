@@ -1,6 +1,6 @@
 # The Non-Profit Open Software License version 3.0 (NPOSL-3.0)
-/
-/
+
+
 
 ## Non-Profit Open Software License 3.0 (NPOSL-3.0)
 
