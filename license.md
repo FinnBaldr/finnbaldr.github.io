@@ -1,5 +1,5 @@
 # The Non-Profit Open Software License version 3.0 (NPOSL-3.0)
-## View Summary of Non-Profit Open Software License 3.0 (NPOSL-3.0) on TLDRLegal » (Disclaimer)
+
 
 ## Non-Profit Open Software License 3.0 (NPOSL-3.0)
 
